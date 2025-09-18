@@ -6,7 +6,7 @@
 ---
 
 ## 📖 Description
-This folder contains the Jupyter notebook **Practical-1.ipynb** for practical 1 of the subject *Statistical Foundation of Data Sciences*.  
+This folder contains the Jupyter notebook **stats-practical.ipynb** for practical 1 of the subject *Statistical Foundation of Data Sciences*.  
 The notebook demonstrates the creation and analysis of a synthetic dataset (including *NaN values*), along with various statistical computations, standardization techniques, and array operations using NumPy and Pandas.  
 
 ---
