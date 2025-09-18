@@ -60,7 +60,7 @@ The notebook demonstrates the creation and analysis of a synthetic dataset (incl
 ---
 
 ## ⚙️ How to Run
-1. Open **Practical-1.ipynb** in *Jupyter Notebook* or *Google Colab*.  
+1. Open **stats-practical.ipynb** in *Jupyter Notebook* or *Google Colab*.  
 2. Run the cells sequentially to view outputs.  
 3. Install required libraries before running:
 
