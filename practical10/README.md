@@ -2,7 +2,7 @@
 
 A simple machine learning project demonstrating how to perform K-Nearest Neighbors (KNN) classification using the classic Iris dataset.
 
-Steps 
+Steps :
 
 Exploratory Data Analysis (EDA)
 
@@ -27,7 +27,7 @@ Generate Confusion Matrix
 
 Check accuracy & predictions
 
-Technologies Used
+Technologies Used:
 
 Python
 
